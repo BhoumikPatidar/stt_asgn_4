@@ -1,0 +1,16 @@
+C:\Users\aryan\source\repos\Lab_12_Form_BP\Lab_12_Form_BP\obj\Debug\net8.0-windows\Lab_12_Form_BP.Form1.resources
+C:\Users\aryan\source\repos\Lab_12_Form_BP\Lab_12_Form_BP\obj\Debug\net8.0-windows\Lab_12_Form_BP.csproj.GenerateResource.cache
+C:\Users\aryan\source\repos\Lab_12_Form_BP\Lab_12_Form_BP\obj\Debug\net8.0-windows\Lab_12_Form_BP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aryan\source\repos\Lab_12_Form_BP\Lab_12_Form_BP\obj\Debug\net8.0-windows\Lab_12_Form_BP.AssemblyInfoInputs.cache
+C:\Users\aryan\source\repos\Lab_12_Form_BP\Lab_12_Form_BP\obj\Debug\net8.0-windows\Lab_12_Form_BP.AssemblyInfo.cs
+C:\Users\aryan\source\repos\Lab_12_Form_BP\Lab_12_Form_BP\obj\Debug\net8.0-windows\Lab_12_Form_BP.csproj.CoreCompileInputs.cache
+C:\Users\aryan\source\repos\Lab_12_Form_BP\Lab_12_Form_BP\bin\Debug\net8.0-windows\Lab_12_Form_BP.exe
+C:\Users\aryan\source\repos\Lab_12_Form_BP\Lab_12_Form_BP\bin\Debug\net8.0-windows\Lab_12_Form_BP.deps.json
+C:\Users\aryan\source\repos\Lab_12_Form_BP\Lab_12_Form_BP\bin\Debug\net8.0-windows\Lab_12_Form_BP.runtimeconfig.json
+C:\Users\aryan\source\repos\Lab_12_Form_BP\Lab_12_Form_BP\bin\Debug\net8.0-windows\Lab_12_Form_BP.dll
+C:\Users\aryan\source\repos\Lab_12_Form_BP\Lab_12_Form_BP\bin\Debug\net8.0-windows\Lab_12_Form_BP.pdb
+C:\Users\aryan\source\repos\Lab_12_Form_BP\Lab_12_Form_BP\obj\Debug\net8.0-windows\Lab_12_Form_BP.dll
+C:\Users\aryan\source\repos\Lab_12_Form_BP\Lab_12_Form_BP\obj\Debug\net8.0-windows\refint\Lab_12_Form_BP.dll
+C:\Users\aryan\source\repos\Lab_12_Form_BP\Lab_12_Form_BP\obj\Debug\net8.0-windows\Lab_12_Form_BP.pdb
+C:\Users\aryan\source\repos\Lab_12_Form_BP\Lab_12_Form_BP\obj\Debug\net8.0-windows\Lab_12_Form_BP.genruntimeconfig.cache
+C:\Users\aryan\source\repos\Lab_12_Form_BP\Lab_12_Form_BP\obj\Debug\net8.0-windows\ref\Lab_12_Form_BP.dll

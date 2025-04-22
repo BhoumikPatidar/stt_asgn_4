@@ -1,0 +1,14 @@
+C:\Users\aryan\source\repos\Lab_12_BP\Lab_12_BP\bin\Debug\net8.0\Lab_12_BP.exe
+C:\Users\aryan\source\repos\Lab_12_BP\Lab_12_BP\bin\Debug\net8.0\Lab_12_BP.deps.json
+C:\Users\aryan\source\repos\Lab_12_BP\Lab_12_BP\bin\Debug\net8.0\Lab_12_BP.runtimeconfig.json
+C:\Users\aryan\source\repos\Lab_12_BP\Lab_12_BP\bin\Debug\net8.0\Lab_12_BP.dll
+C:\Users\aryan\source\repos\Lab_12_BP\Lab_12_BP\bin\Debug\net8.0\Lab_12_BP.pdb
+C:\Users\aryan\source\repos\Lab_12_BP\Lab_12_BP\obj\Debug\net8.0\Lab_12_BP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aryan\source\repos\Lab_12_BP\Lab_12_BP\obj\Debug\net8.0\Lab_12_BP.AssemblyInfoInputs.cache
+C:\Users\aryan\source\repos\Lab_12_BP\Lab_12_BP\obj\Debug\net8.0\Lab_12_BP.AssemblyInfo.cs
+C:\Users\aryan\source\repos\Lab_12_BP\Lab_12_BP\obj\Debug\net8.0\Lab_12_BP.csproj.CoreCompileInputs.cache
+C:\Users\aryan\source\repos\Lab_12_BP\Lab_12_BP\obj\Debug\net8.0\Lab_12_BP.dll
+C:\Users\aryan\source\repos\Lab_12_BP\Lab_12_BP\obj\Debug\net8.0\refint\Lab_12_BP.dll
+C:\Users\aryan\source\repos\Lab_12_BP\Lab_12_BP\obj\Debug\net8.0\Lab_12_BP.pdb
+C:\Users\aryan\source\repos\Lab_12_BP\Lab_12_BP\obj\Debug\net8.0\Lab_12_BP.genruntimeconfig.cache
+C:\Users\aryan\source\repos\Lab_12_BP\Lab_12_BP\obj\Debug\net8.0\ref\Lab_12_BP.dll
